@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Website & App Design",
+    "description": "Designing attractive websites and applications to convert visitors into customers.",
+    "image": "https://via.placeholder.com/150?text=Website+&+App+Design",
+    "price": "€500",
+    "basePrice": "€450",
+    "reviews": 150,
+    "rating": 4.6,
+    "targetAudience": "Businesses & Startups"
+  },
+  {
+    "id": 2,
+    "title": "Content Creation & Strategy",
+    "description": "Producing premium content (videos, stories, reels) to attract and engage your audience.",
+    "image": "https://via.placeholder.com/150?text=Content+Creation",
+    "price": "€400",
+    "basePrice": "€350",
+    "reviews": 120,
+    "rating": 4.5,
+    "targetAudience": "Content Creators & Brands"
+  },
+  {
+    "id": 3,
+    "title": "Social Media Management",
+    "description": "Managing your social platforms to ensure continuous interaction and brand growth.",
+    "image": "https://via.placeholder.com/150?text=Social+Media+Management",
+    "price": "€300",
+    "basePrice": "€270",
+    "reviews": 90,
+    "rating": 4.4,
+    "targetAudience": "Small Businesses & Influencers"
+  },
+  {
+    "id": 4,
+    "title": "High-Quality Photo & Video Production",
+    "description": "Creating custom visual content for products, advertisements, and branding.",
+    "image": "https://via.placeholder.com/150?text=Photo+&+Video+Production",
+    "price": "€600",
+    "basePrice": "€550",
+    "reviews": 180,
+    "rating": 4.7,
+    "targetAudience": "E-commerce & Marketing Teams"
+  },
+  {
+    "id": 5,
+    "title": "Marketing & Advertising Services",
+    "description": "Providing professional advertising solutions to enhance your brand.",
+    "image": "https://via.placeholder.com/150?text=Marketing+&+Advertising",
+    "price": "€450",
+    "basePrice": "€400",
+    "reviews": 140,
+    "rating": 4.6,
+    "targetAudience": "Companies & Entrepreneurs"
+  },
+  {
+    "id": 6,
+    "title": "Influencer Marketing",
+    "description": "Collaborating with influencers to increase your brand's reach and credibility.",
+    "image": "https://via.placeholder.com/150?text=Influencer+Marketing",
+    "price": "€350",
+    "basePrice": "€300",
+    "reviews": 110,
+    "rating": 4.5,
+    "targetAudience": "Brands & Content Platforms"
+  },
+  {
+    "id": 7,
+    "title": "Digital Advertising (PPC)",
+    "description": "Managing paid ad campaigns on search engines and social platforms (Facebook, Instagram, TikTok).",
+    "image": "https://via.placeholder.com/150?text=Digital+Advertising",
+    "price": "€500",
+    "basePrice": "€450",
+    "reviews": 130,
+    "rating": 4.6,
+    "targetAudience": "Online Businesses & Retailers"
+  },
+  {
+    "id": 8,
+    "title": "Search Engine Optimization (SEO)",
+    "description": "Optimizing website visibility in search results to increase traffic and sales.",
+    "image": "https://via.placeholder.com/150?text=SEO",
+    "price": "€400",
+    "basePrice": "€360",
+    "reviews": 160,
+    "rating": 4.7,
+    "targetAudience": "Websites & E-commerce"
+  }
+]
