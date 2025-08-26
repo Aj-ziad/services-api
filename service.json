@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1,
+    "title": "Website & App Design",
+    "description": "Designing attractive websites and applications to convert visitors into customers. We focus on user-centric designs that blend aesthetics with functionality for maximum engagement.",
+    "image": "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "reviews": 150,
+    "rating": 4.6,
+    "targetAudience": "Businesses & Startups",
+    "features": [
+      {"title": "Custom UI/UX", "description": "Tailored interfaces that enhance user experience and drive conversions."},
+      {"title": "Responsive Design", "description": "Seamless viewing on desktops, tablets, and mobiles."},
+      {"title": "CMS Integration", "description": "Easy content management with platforms like WordPress or custom solutions."},
+      {"title": "Performance Optimization", "description": "Fast-loading pages with SEO-friendly structures."}
+    ],
+    "process": [
+      "Initial consultation to understand your goals and audience.",
+      "Wireframing and prototyping for visual approval.",
+      "Development and iteration based on feedback.",
+      "Testing, launch, and post-launch support."
+    ],
+    "benefits": [
+      "Increased user retention and conversion rates.",
+      "Scalable designs that grow with your business.",
+      "Professional branding that stands out in the market."
+    ],
+    "packages": [
+      {"name": "Basic", "duration": "2-4 weeks"},
+      {"name": "Standard", "duration": "4-6 weeks"},
+      {"name": "Premium", "duration": "6-8 weeks"}
+    ],
+    "addons": ["E-commerce Integration", "API Connections", "Animation Effects"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1460925895917-be85df6eccd8?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Content Creation & Strategy",
+    "description": "Producing premium content (videos, stories, reels) to attract and engage your audience. Our strategies are data-driven to maximize reach and impact.",
+    "image": "https://images.unsplash.com/photo-1720411270946-7a530fd12dc9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "reviews": 120,
+    "rating": 4.5,
+    "targetAudience": "Content Creators & Brands",
+    "features": [
+      {"title": "Video Production", "description": "High-quality videos tailored for platforms like YouTube and TikTok."},
+      {"title": "Storytelling Reels", "description": "Short-form content that captivates and converts."},
+      {"title": "Content Calendar", "description": "Planned strategies for consistent posting."},
+      {"title": "Analytics Integration", "description": "Track performance and refine approaches."}
+    ],
+    "process": [
+      "Audience analysis and content brainstorming.",
+      "Scripting and production shooting.",
+      "Editing and optimization for platforms.",
+      "Distribution and performance review."
+    ],
+    "benefits": [
+      "Boosted engagement and follower growth.",
+      "Higher ROI through targeted content.",
+      "Creative narratives that build brand loyalty."
+    ],
+    "packages": [
+      {"name": "Starter", "duration": "1 month"},
+      {"name": "Growth", "duration": "3 months"},
+      {"name": "Enterprise", "duration": "6 months"}
+    ],
+    "addons": ["SEO Optimization", "Collaborations", "Trend Analysis"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1720411270946-7a530fd12dc9?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1516542076529-1ea3854896f2?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1504868584819-4e40d3d8b6e0?ixlib=rb-4.0.3"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Social Media Management",
+    "description": "Managing your social platforms to ensure continuous interaction and brand growth. We handle posting, engagement, and growth hacking.",
+    "image": "https://images.unsplash.com/photo-1675352161865-27816c76141a?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "reviews": 90,
+    "rating": 4.4,
+    "targetAudience": "Small Businesses & Influencers",
+    "features": [
+      {"title": "Daily Posting", "description": "Curated content scheduled across platforms."},
+      {"title": "Community Engagement", "description": "Responding to comments and messages promptly."},
+      {"title": "Growth Strategies", "description": "Hashtag research and audience targeting."},
+      {"title": "Reporting Dashboard", "description": "Monthly insights on performance metrics."}
+    ],
+    "process": [
+      "Platform audit and strategy development.",
+      "Content creation and scheduling.",
+      "Monitoring interactions and adjustments.",
+      "Monthly reviews and optimizations."
+    ],
+    "benefits": [
+      "Increased brand visibility and loyalty.",
+      "Time savings for your team.",
+      "Data-backed decisions for better results."
+    ],
+    "packages": [
+      {"name": "Essential", "duration": "Monthly"},
+      {"name": "Pro", "duration": "Quarterly"},
+      {"name": "Ultimate", "duration": "Annual"}
+    ],
+    "addons": ["Ad Management", "Influencer Outreach", "Crisis Handling"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1675352161865-27816c76141a?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1554177255-4b1422f5f309?ixlib=rb-4.0.3"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "High-Quality Photo & Video Production",
+    "description": "Creating custom visual content for products, advertisements, and branding. Professional shoots with creative editing for stunning results.",
+    "image": "https://images.unsplash.com/photo-1611652969195-63733071b45c?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "reviews": 180,
+    "rating": 4.7,
+    "targetAudience": "E-commerce & Marketing Teams",
+    "features": [
+      {"title": "Professional Shoots", "description": "Studio or on-location photography and videography."},
+      {"title": "Advanced Editing", "description": "Color grading, effects, and retouching."},
+      {"title": "Storyboarding", "description": "Pre-production planning for cohesive visuals."},
+      {"title": "Multi-Format Delivery", "description": "Optimized for web, social, and print."}
+    ],
+    "process": [
+      "Concept development and storyboarding.",
+      "Shooting with high-end equipment.",
+      "Post-production editing and revisions.",
+      "Final delivery and usage guidelines."
+    ],
+    "benefits": [
+      "Eye-catching visuals that boost sales.",
+      "Versatile content for multiple campaigns.",
+      "Professional quality that elevates your brand."
+    ],
+    "packages": [
+      {"name": "Single Shoot", "duration": "1 day"},
+      {"name": "Campaign Package", "duration": "1 week"},
+      {"name": "Full Production", "duration": "2 weeks"}
+    ],
+    "addons": ["Drone Footage", "Model Hiring", "Special Effects"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1611652969195-63733071b45c?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1519389950473-47ba02777834?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-4.0.3"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Marketing & Advertising Services",
+    "description": "Providing professional advertising solutions to enhance your brand. Integrated campaigns across digital and traditional media.",
+    "image": "https://images.unsplash.com/photo-1676282827533-d6058df56a69?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "reviews": 140,
+    "rating": 4.6,
+    "targetAudience": "Companies & Entrepreneurs",
+    "features": [
+      {"title": "Campaign Planning", "description": "Strategic ad campaigns tailored to goals."},
+      {"title": "Multi-Channel Execution", "description": "Ads on social, search, and email."},
+      {"title": "A/B Testing", "description": "Optimizing creatives for best performance."},
+      {"title": "ROI Tracking", "description": "Detailed analytics on campaign success."}
+    ],
+    "process": [
+      "Goal setting and audience targeting.",
+      "Creative development and launch.",
+      "Monitoring and real-time adjustments.",
+      "Post-campaign analysis and recommendations."
+    ],
+    "benefits": [
+      "Higher lead generation and sales.",
+      "Cost-effective advertising strategies.",
+      "Brand awareness amplification."
+    ],
+    "packages": [
+      {"name": "Launch", "duration": "1 campaign"},
+      {"name": "Sustain", "duration": "Ongoing"},
+      {"name": "Scale", "duration": "Multi-campaign"}
+    ],
+    "addons": ["Email Marketing", "Retargeting", "Analytics Setup"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1676282827533-d6058df56a69?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1460925895917-be85df6eccd8?ixlib=rb-4.0.3"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Influencer Marketing",
+    "description": "Collaborating with influencers to increase your brand's reach and credibility. Authentic partnerships for genuine endorsements.",
+    "image": "https://plus.unsplash.com/premium_photo-1661687398932-1037ceeca8f1?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "reviews": 110,
+    "rating": 4.5,
+    "targetAudience": "Brands & Content Platforms",
+    "features": [
+      {"title": "Influencer Matching", "description": "Finding the right influencers for your niche."},
+      {"title": "Campaign Management", "description": "From negotiation to execution."},
+      {"title": "Performance Metrics", "description": "Tracking engagement and conversions."},
+      {"title": "Contract Handling", "description": "Legal and payment facilitation."}
+    ],
+    "process": [
+      "Brand brief and influencer search.",
+      "Outreach and partnership agreements.",
+      "Content creation and approval.",
+      "Launch, monitoring, and reporting."
+    ],
+    "benefits": [
+      "Expanded reach to targeted audiences.",
+      "Enhanced trust through endorsements.",
+      "Measurable growth in followers and sales."
+    ],
+    "packages": [
+      {"name": "Micro", "duration": "1-5 influencers"},
+      {"name": "Macro", "duration": "5-10 influencers"},
+      {"name": "Mega", "duration": "10+ influencers"}
+    ],
+    "addons": ["Content Co-Creation", "Event Tie-Ins", "Long-Term Partnerships"],
+    "additionalImages": [
+      "https://plus.unsplash.com/premium_photo-1661687398932-1037ceeca8f1?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1557053964-937650b63311?ixlib=rb-4.0.3"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Digital Advertising (PPC)",
+    "description": "Managing paid ad campaigns on search engines and social platforms (Facebook, Instagram, TikTok). Precision targeting for optimal results.",
+    "image": "https://plus.unsplash.com/premium_photo-1733342572346-5420c95f7556?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "reviews": 130,
+    "rating": 4.6,
+    "targetAudience": "Online Businesses & Retailers",
+    "features": [
+      {"title": "Keyword Research", "description": "Identifying high-ROI search terms."},
+      {"title": "Ad Creative Design", "description": "Compelling visuals and copy."},
+      {"title": "Bid Management", "description": "Optimizing costs for maximum exposure."},
+      {"title": "Conversion Tracking", "description": "Measuring clicks to sales."}
+    ],
+    "process": [
+      "Account setup and keyword planning.",
+      "Ad creation and targeting setup.",
+      "Campaign launch and daily monitoring.",
+      "Optimization and detailed reporting."
+    ],
+    "benefits": [
+      "Immediate traffic and leads.",
+      "Controlled budgeting with high returns.",
+      "Scalable campaigns for growth."
+    ],
+    "packages": [
+      {"name": "Basic PPC", "duration": "Monthly"},
+      {"name": "Advanced", "duration": "Quarterly"},
+      {"name": "Full-Service", "duration": "Ongoing"}
+    ],
+    "addons": ["Remarketing", "Video Ads", "A/B Testing"],
+    "additionalImages": [
+      "https://plus.unsplash.com/premium_photo-1733342572346-5420c95f7556?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1551288049-b1f7c0d4f1d4?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1469474968028-566ce1e7e13e?ixlib=rb-4.0.3"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Search Engine Optimization (SEO)",
+    "description": "Optimizing website visibility in search results to increase traffic and sales. Comprehensive on-page, off-page, and technical SEO.",
+    "image": "https://plus.unsplash.com/premium_photo-1684356818903-4f477380b648?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "reviews": 160,
+    "rating": 4.7,
+    "targetAudience": "Websites & E-commerce",
+    "features": [
+      {"title": "On-Page Optimization", "description": "Meta tags, content, and structure improvements."},
+      {"title": "Off-Page Link Building", "description": "Quality backlinks from authoritative sites."},
+      {"title": "Technical Audits", "description": "Fixing speed, mobile-friendliness, and indexing issues."},
+      {"title": "Keyword Strategy", "description": "Targeting high-volume, low-competition terms."}
+    ],
+    "process": [
+      "Site audit and keyword research.",
+      "Implementation of optimizations.",
+      "Content creation and link building.",
+      "Ongoing monitoring and adjustments."
+    ],
+    "benefits": [
+      "Organic traffic growth without paid ads.",
+      "Long-term visibility and authority.",
+      "Improved user experience and conversions."
+    ],
+    "packages": [
+      {"name": "Audit Only", "duration": "One-time"},
+      {"name": "Monthly SEO", "duration": "Ongoing"},
+      {"name": "Enterprise", "duration": "Custom"}
+    ],
+    "addons": ["Local SEO", "E-commerce Focus", "Content Writing"],
+    "additionalImages": [
+      "https://plus.unsplash.com/premium_photo-1684356818903-4f477380b648?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1484807352052-23338990c6c6?ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1519389950473-47ba02777834?ixlib=rb-4.0.3"
+    ]
+  }
+]
