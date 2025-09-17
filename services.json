@@ -1,90 +1,186 @@
 [
   {
     "id": 1,
-    "title": "Website & App Design",
-    "description": "Designing attractive websites and applications to convert visitors into customers.",
-    "image": "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": {
+      "en": "Website & App Design",
+      "fr": "Conception de sites Web et d'applications",
+      "ar": "تصميم المواقع والتطبيقات"
+    },
+    "description": {
+      "en": "Designing attractive websites and applications to convert visitors into customers.",
+      "fr": "Conception de sites et d'applications attrayants pour convertir les visiteurs en clients.",
+      "ar": "تصميم مواقع وتطبيقات جذابة لتحويل الزوار إلى عملاء."
+    },
+    "image": "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?q=80&w=687&auto=format&fit=crop",
     "price": "€500",
     "basePrice": "€450",
     "reviews": 150,
     "rating": 4.6,
-    "targetAudience": "Businesses & Startups"
+    "targetAudience": {
+      "en": "Businesses & Startups",
+      "fr": "Entreprises et startups",
+      "ar": "الأعمال والشركات الناشئة"
+    }
   },
   {
     "id": 2,
-    "title": "Content Creation & Strategy",
-    "description": "Producing premium content (videos, stories, reels) to attract and engage your audience.",
-    "image": "https://images.unsplash.com/photo-1720411270946-7a530fd12dc9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": {
+      "en": "Content Creation & Strategy",
+      "fr": "Création et stratégie de contenu",
+      "ar": "إنشاء المحتوى والاستراتيجية"
+    },
+    "description": {
+      "en": "Producing premium content (videos, stories, reels) to attract and engage your audience.",
+      "fr": "Production de contenu premium (vidéos, stories, reels) pour attirer et engager votre audience.",
+      "ar": "إنتاج محتوى متميز (فيديوهات، قصص، ريلز) لجذب جمهورك والتفاعل معه."
+    },
+    "image": "https://images.unsplash.com/photo-1720411270946-7a530fd12dc9?q=80&w=2070&auto=format&fit=crop",
     "price": "€400",
     "basePrice": "€350",
     "reviews": 120,
     "rating": 4.5,
-    "targetAudience": "Content Creators & Brands"
+    "targetAudience": {
+      "en": "Content Creators & Brands",
+      "fr": "Créateurs de contenu et marques",
+      "ar": "صناع المحتوى والعلامات التجارية"
+    }
   },
   {
     "id": 3,
-    "title": "Social Media Management",
-    "description": "Managing your social platforms to ensure continuous interaction and brand growth.",
-    "image": "https://images.unsplash.com/photo-1675352161865-27816c76141a?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": {
+      "en": "Social Media Management",
+      "fr": "Gestion des réseaux sociaux",
+      "ar": "إدارة وسائل التواصل الاجتماعي"
+    },
+    "description": {
+      "en": "Managing your social platforms to ensure continuous interaction and brand growth.",
+      "fr": "Gestion de vos plateformes sociales pour assurer une interaction continue et la croissance de la marque.",
+      "ar": "إدارة منصاتك الاجتماعية لضمان التفاعل المستمر ونمو العلامة التجارية."
+    },
+    "image": "https://images.unsplash.com/photo-1675352161865-27816c76141a?q=80&w=1032&auto=format&fit=crop",
     "price": "€300",
     "basePrice": "€270",
     "reviews": 90,
     "rating": 4.4,
-    "targetAudience": "Small Businesses & Influencers"
+    "targetAudience": {
+      "en": "Small Businesses & Influencers",
+      "fr": "Petites entreprises et influenceurs",
+      "ar": "الأعمال الصغيرة والمؤثرون"
+    }
   },
   {
     "id": 4,
-    "title": "High-Quality Photo & Video Production",
-    "description": "Creating custom visual content for products, advertisements, and branding.",
-    "image": "https://images.unsplash.com/photo-1611652969195-63733071b45c?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": {
+      "en": "High-Quality Photo & Video Production",
+      "fr": "Production photo et vidéo de haute qualité",
+      "ar": "إنتاج صور وفيديو بجودة عالية"
+    },
+    "description": {
+      "en": "Creating custom visual content for products, advertisements, and branding.",
+      "fr": "Création de contenu visuel personnalisé pour les produits, les publicités et l'image de marque.",
+      "ar": "إنشاء محتوى مرئي مخصص للمنتجات والإعلانات والعلامات التجارية."
+    },
+    "image": "https://images.unsplash.com/photo-1611652969195-63733071b45c?q=80&w=870&auto=format&fit=crop",
     "price": "€600",
     "basePrice": "€550",
     "reviews": 180,
     "rating": 4.7,
-    "targetAudience": "E-commerce & Marketing Teams"
+    "targetAudience": {
+      "en": "E-commerce & Marketing Teams",
+      "fr": "E-commerce et équipes marketing",
+      "ar": "التجارة الإلكترونية وفرق التسويق"
+    }
   },
   {
     "id": 5,
-    "title": "Marketing & Advertising Services",
-    "description": "Providing professional advertising solutions to enhance your brand.",
-    "image": "https://images.unsplash.com/photo-1676282827533-d6058df56a69?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": {
+      "en": "Marketing & Advertising Services",
+      "fr": "Services de marketing et de publicité",
+      "ar": "خدمات التسويق والإعلانات"
+    },
+    "description": {
+      "en": "Providing professional advertising solutions to enhance your brand.",
+      "fr": "Fourniture de solutions publicitaires professionnelles pour améliorer votre marque.",
+      "ar": "تقديم حلول إعلانية احترافية لتعزيز علامتك التجارية."
+    },
+    "image": "https://images.unsplash.com/photo-1676282827533-d6058df56a69?q=80&w=870&auto=format&fit=crop",
     "price": "€450",
     "basePrice": "€400",
     "reviews": 140,
     "rating": 4.6,
-    "targetAudience": "Companies & Entrepreneurs"
+    "targetAudience": {
+      "en": "Companies & Entrepreneurs",
+      "fr": "Entreprises et entrepreneurs",
+      "ar": "الشركات ورواد الأعمال"
+    }
   },
   {
     "id": 6,
-    "title": "Influencer Marketing",
-    "description": "Collaborating with influencers to increase your brand's reach and credibility.",
-    "image": "https://plus.unsplash.com/premium_photo-1661687398932-1037ceeca8f1?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": {
+      "en": "Influencer Marketing",
+      "fr": "Marketing d'influence",
+      "ar": "التسويق عبر المؤثرين"
+    },
+    "description": {
+      "en": "Collaborating with influencers to increase your brand's reach and credibility.",
+      "fr": "Collaboration avec des influenceurs pour accroître la portée et la crédibilité de votre marque.",
+      "ar": "التعاون مع المؤثرين لزيادة وصول علامتك التجارية ومصداقيتها."
+    },
+    "image": "https://plus.unsplash.com/premium_photo-1661687398932-1037ceeca8f1?q=80&w=1032&auto=format&fit=crop",
     "price": "€350",
     "basePrice": "€300",
     "reviews": 110,
     "rating": 4.5,
-    "targetAudience": "Brands & Content Platforms"
+    "targetAudience": {
+      "en": "Brands & Content Platforms",
+      "fr": "Marques et plateformes de contenu",
+      "ar": "العلامات التجارية ومنصات المحتوى"
+    }
   },
   {
     "id": 7,
-    "title": "Digital Advertising (PPC)",
-    "description": "Managing paid ad campaigns on search engines and social platforms (Facebook, Instagram, TikTok).",
-    "image": "https://plus.unsplash.com/premium_photo-1733342572346-5420c95f7556?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": {
+      "en": "Digital Advertising (PPC)",
+      "fr": "Publicité numérique (PPC)",
+      "ar": "الإعلانات الرقمية (الدفع مقابل النقرة)"
+    },
+    "description": {
+      "en": "Managing paid ad campaigns on search engines and social platforms (Facebook, Instagram, TikTok).",
+      "fr": "Gestion des campagnes publicitaires payantes sur les moteurs de recherche et les plateformes sociales (Facebook, Instagram, TikTok).",
+      "ar": "إدارة الحملات الإعلانية المدفوعة على محركات البحث والمنصات الاجتماعية (فيسبوك، إنستغرام، تيك توك)."
+    },
+    "image": "https://plus.unsplash.com/premium_photo-1733342572346-5420c95f7556?q=80&w=870&auto=format&fit=crop",
     "price": "€500",
     "basePrice": "€450",
     "reviews": 130,
     "rating": 4.6,
-    "targetAudience": "Online Businesses & Retailers"
+    "targetAudience": {
+      "en": "Online Businesses & Retailers",
+      "fr": "Entreprises en ligne et détaillants",
+      "ar": "الأعمال التجارية عبر الإنترنت وتجار التجزئة"
+    }
   },
   {
     "id": 8,
-    "title": "Search Engine Optimization (SEO)",
-    "description": "Optimizing website visibility in search results to increase traffic and sales.",
-    "image": "https://plus.unsplash.com/premium_photo-1684356818903-4f477380b648?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": {
+      "en": "Search Engine Optimization (SEO)",
+      "fr": "Optimisation pour les moteurs de recherche (SEO)",
+      "ar": "تحسين محركات البحث (SEO)"
+    },
+    "description": {
+      "en": "Optimizing website visibility in search results to increase traffic and sales.",
+      "fr": "Optimisation de la visibilité des sites Web dans les résultats de recherche pour augmenter le trafic et les ventes.",
+      "ar": "تحسين ظهور الموقع في نتائج البحث لزيادة الزيارات والمبيعات."
+    },
+    "image": "https://plus.unsplash.com/premium_photo-1684356818903-4f477380b648?q=80&w=870&auto=format&fit=crop",
     "price": "€400",
     "basePrice": "€360",
     "reviews": 160,
     "rating": 4.7,
-    "targetAudience": "Websites & E-commerce"
+    "targetAudience": {
+      "en": "Websites & E-commerce",
+      "fr": "Sites Web et e-commerce",
+      "ar": "المواقع الإلكترونية والتجارة الإلكترونية"
+    }
   }
 ]
